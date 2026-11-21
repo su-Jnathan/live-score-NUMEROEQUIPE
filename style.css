@@ -1,0 +1,5 @@
+body { font-family: system-ui, sans-serif; margin: 0; background: #0f172a; color: #f1f5f9; }
+ header { padding: 1.5rem; text-align: center; background: linear-gradient(90deg, #f77f00, #009e60); } 
+ table { width: 90%; max-width: 640px; margin: 2rem auto; border-collapse: collapse; }
+  th, td { padding: .7rem; text-align: center; border-bottom: 1px solid #334155; } 
+  tbody tr:first-child { background: #f77f0033; font-weight: bold; } #leader { text-align: center; font-size: 1.2rem; }
